@@ -2,7 +2,7 @@ This repository contains a collection of Python projects, focusing on data analy
 
 Project Previews:
 
-📈 **Portfolio Risk Analysis**: Built predictive models for portfolio returns and decomposed risk by sectors and model-driven factors. Estimated and backtested portfolio Value at Risk (VaR) and Expected Shortfall using ARIMA+GARCH and historical simulation to assess tail risk exposure.
+📈 **Portfolio Risk Analysis**: Performed multi-factor risk analysis to predict returns and identify key risk factors, utilizing techniques such as LASSO, Gradient Boosting, and PCA regression. Assessed portfolio Value at Risk (VaR) through ARIMA-GARCH models, historical simulations, and predictive models to evaluate downside risk.
 
 💹 **Stock Price Modeling and Strategy Backtesting**: Developed machine learning models, including Logistic Regression, Random Forest, RNN, and LSTM, to forecast next-day stock returns, and backtested intraday trading strategies based on predicted prices against a benchmark strategy.
 
